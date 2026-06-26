@@ -23,7 +23,7 @@ export default function Home() {
         <p className="eyebrow">Crypto Research &amp; Investing</p>
         <h1>Mario Chow</h1>
         <p className="sub">
-          Chow Yik Hong. Quant Finance grad from HKUST and full time crypto degen.
+          Quant Finance grad from HKUST and full time crypto degen.
           Functioning alcoholic, gambling addict, and chain smoker who somehow found the
           one industry that rewards all three. When I am not tilting at the tables, I write
           research on emerging crypto ecosystems: Hyperliquid, digital asset treasuries,
